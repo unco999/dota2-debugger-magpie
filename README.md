@@ -11,7 +11,7 @@
                 "ip":"192.168.3.17", //你的局域网IP
                 "port":32392,  //你的端口
                 "include":["/modules"],  //需要参与编译的文件夹
-                "name": "../../scripts/tstl/magpe.ts" // magpie插件地址
+                "name": "../../scripts/tstl/magpie.ts" // magpie插件地址
             }
         ]
     }
